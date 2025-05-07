@@ -75,7 +75,8 @@ nav a{
     color: white;
     background-color:salmon;  
     margin: 10px;
-    border-radius: 12px;}
+    border-radius: 12px;
+}
 
 
 li{
@@ -125,4 +126,8 @@ footer{
 }
 footer p{text-align: center;
 
+}
+a:hover{
+    background-color: aquamarine;
+    transition: 2s;
 }
