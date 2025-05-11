@@ -7,6 +7,10 @@ body{
    margin-top: 100px;
    margin-left: 300px;
    margin-right: 300px;
+   background-image: url(imagenes/tiro\ maquetacion.jpg);
+   background-size: cover;
+  
+   
 }
 
 /* ------------------------------------- */
@@ -54,6 +58,8 @@ p{
     text-align: left;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 nav{
     display: flex;
@@ -61,11 +67,14 @@ nav{
     justify-content: center;
 }
 img{
-    margin-right: 200px;
-    margin-left: 300px;
+    margin-right: 250px;
+    margin-left: 200px;
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 50%;
+}
+div {background-color: white;
+
 }
 nav a{
     font-family:  "Cascadia Mono", sans-serif;
@@ -75,8 +84,7 @@ nav a{
     color: white;
     background-color:salmon;  
     margin: 10px;
-    border-radius: 12px;
-}
+    border-radius: 12px;}
 
 
 li{
@@ -126,8 +134,4 @@ footer{
 }
 footer p{text-align: center;
 
-}
-a:hover{
-    background-color: aquamarine;
-    transition: 2s;
 }
