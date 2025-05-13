@@ -67,8 +67,9 @@ nav{
     justify-content: center;
 }
 img{
-    margin-right: 250px;
-    margin-left: 200px;
+   display: block;
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 100px;
     margin-bottom: 100px;
     border-radius: 50%;
