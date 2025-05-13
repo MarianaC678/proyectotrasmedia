@@ -73,8 +73,8 @@ img{
     margin-bottom: 100px;
     border-radius: 50%;
 }
-div {background-color: white;
-
+#home div{
+   background-color: white;
 }
 nav a{
     font-family:  "Cascadia Mono", sans-serif;
